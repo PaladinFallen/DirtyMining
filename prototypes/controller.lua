@@ -14,9 +14,9 @@ end
 local function createCircuitActivitySprite()
 	local ret = {
         filename = "__base__/graphics/entity/combinator/activity-leds/constant-combinator-LED-S.png",
-        width = 11,
-        height = 11,
-        frame_count = 1,
+        width = 8,
+        height = 8,
+        frame_count = 4,
         shift = {-0.296875, -0.078125},
     }
 	return ret
